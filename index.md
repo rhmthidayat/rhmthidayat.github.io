@@ -8,5 +8,11 @@ Here all my project collection. Feel free to bookmark to keep an eye on my proje
 
 - [Sample-Realm-Swift](https://github.com/rhmthidayat/Sample-Realm-Swift) - _Sample Realm Swift Project_
 
+- [Sample-Local-Notification](https://github.com/rhmthidayat/Sample-Local-Notification) - _Local Notification iOS written with Swift_
+
+### My Lil Code Library on gist
+[Rahmat's Gists](https://gist.github.com/rhmthidayat)
+
+
 ### My Own Website
 **[Rahmat Hidayat](http://rahmat-hidayat.xyz/)**
